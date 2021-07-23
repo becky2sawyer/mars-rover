@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="m.local" name="pytest" skipped="0" tests="1" time="0.086" timestamp="2021-07-24T00:39:16.578775"><testcase classname="marsrover.test_marsrover" name="test_ping" time="0.001" /></testsuite></testsuites>
